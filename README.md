@@ -1,4 +1,2 @@
 # Calculator_JQuery
 ![]()
-![]()
-![]()
